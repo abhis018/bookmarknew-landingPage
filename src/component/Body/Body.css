@@ -1,0 +1,29 @@
+.box {
+    display: flex;
+}
+
+.box1 {
+    flex: 50%;
+    margin-left: 170px;
+    margin-top: 110px;
+}
+.box2 {
+    flex: 50%;
+    margin-right: 70px;
+    margin-top: 70px;
+}
+
+span {
+    color: grey;
+}
+
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline;
+}
+hr {
+    width: 45%;
+    text-align: center;
+}

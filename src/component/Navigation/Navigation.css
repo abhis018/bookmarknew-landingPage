@@ -1,0 +1,12 @@
+.head{
+    list-style-type: none;
+    margin: 5px;
+    padding: 20px;
+    text-align: left;
+    margin-left: 150px;
+}
+.nav {
+    display: inline;
+    padding: 0;
+    padding-left: 70px;
+}
