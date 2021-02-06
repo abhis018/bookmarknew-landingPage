@@ -1,0 +1,80 @@
+.head{
+    display: flex;
+    list-style-type: none;
+    text-align: left;
+}
+.nav-1 {
+    margin-left: 370px;
+}
+.img {
+    width: 120px;
+    height: 25px;
+    margin-top: 7px;
+    margin-left: 140px;
+}
+.ton {
+    margin-left: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.nav {
+    display: inline;
+    padding: 0;
+    padding-left: 70px;
+    margin-top: 8px;
+}
+.last-button {
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+
+
+.block {
+    max-width: 600px;
+    display: block;
+    margin: 50px auto;
+}
+
+.block .ques-box {
+    margin-bottom: 0;
+    text-align: left;
+    float: left;
+    width: 100%;
+}
+
+.block .ques-box .ques {
+    position: relative;
+}
+
+.block .ques-box .ques h4{
+    cursor: pointer;
+    position: relative;
+    margin: 0;
+    padding: 15px 20px;
+}
+
+.block .ques-box .ques h4 .bi-up {
+    position: absolute;
+    right: 20px;
+}
+.block .ques-box .ques h4 .bi-down {
+    position: absolute;
+    right: 20px;
+}
+
+
+.block .ques-box .ans {
+    padding: 20px;
+}
+
+.block .ques-box .ques p{
+    font-size: 15px;
+    line-height: 24px;
+    margin: 0;
+}
+
+.block .ques-box .ans {
+    display: none;
+}
+

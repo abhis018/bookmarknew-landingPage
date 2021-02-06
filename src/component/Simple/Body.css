@@ -1,11 +1,13 @@
-.box {
-    display: flex;
-}
-
 .box1 {
-    flex: 50%;
     margin-left: 170px;
     margin-top: 110px;
+}
+.body-head {
+    display: flex;
+    margin-left: 10px;
+}
+.box {
+    display: flex;
 }
 .box2 {
     flex: 50%;
@@ -45,7 +47,36 @@ ul {
 li {
     display: inline;
 }
-hr {
+.hr {
     width: 45%;
     text-align: center;
+}
+
+.push {
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+.but {
+    margin-left: 20px;
+    background-color: white;
+    border: none;
+}
+
+.para {
+    margin-right: 70px;
+    color: gray;
+}
+.head-line {
+    margin-right: 50px;
+}
+
+.para-1 {
+    padding-left: 400px;
+    padding-right: 400px;
+    color: gray;
+}
+
+.last-1 {
+    margin-top: 100px;
 }
